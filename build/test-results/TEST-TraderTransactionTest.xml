@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TraderTransactionTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-01-27T13:55:56" hostname="Jamess-MacBook-Pro.local" time="0.017">
+  <properties/>
+  <testcase name="test1" classname="TraderTransactionTest" time="0.005"/>
+  <testcase name="test2" classname="TraderTransactionTest" time="0.001"/>
+  <testcase name="test3" classname="TraderTransactionTest" time="0.001"/>
+  <testcase name="test4" classname="TraderTransactionTest" time="0.001"/>
+  <testcase name="test5" classname="TraderTransactionTest" time="0.003"/>
+  <testcase name="test6" classname="TraderTransactionTest" time="0.001"/>
+  <testcase name="test7" classname="TraderTransactionTest" time="0.003"/>
+  <testcase name="test8" classname="TraderTransactionTest" time="0.001"/>
+  <system-out><![CDATA[TRANSACTIONS = [{Trader:Brian in Cambridge, year: 2011, value:300}, {Trader:Raoul in Cambridge, year: 2011, value:400}]
+[Cambridge, Milan]
+[Trader:Alan in Cambridge, Trader:Brian in Cambridge, Trader:Raoul in Cambridge]
+s = Alan,Brian,Mario,Raoul
+true
+300
+1000
+400
+950
+1000
+{Trader:Brian in Cambridge, year: 2011, value:300}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

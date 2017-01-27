@@ -1,0 +1,63 @@
+(0,1)
+(1,1)
+(1,2)
+(2,3)
+(3,5)
+(5,8)
+(8,13)
+(13,21)
+(21,34)
+(34,55)
+(55,89)
+	(89,144)
+
+(144,233)
+
+(233,377)
+
+(377,610)
+
+(610,987)
+(987,1597)
+(1597,2584)
+(2584,4181)
+(4181,6765)
+pair = [2, 4]
+pair = [3, 3]
+pair = [1, 3]
+pair = [1, 4]
+pair = [2, 3]
+pair = [2, 4]
+pair = [3, 3]
+pair = [3, 4]
+11
+'/Users/jpowel/dev/java8-testing/./.git
+-/Users/jpowel/dev/java8-testing/./.gitignore
+*/Users/jpowel/dev/java8-testing/./.gradle
+(/Users/jpowel/dev/java8-testing/./.idea
+(/Users/jpowel/dev/java8-testing/./build
+//Users/jpowel/dev/java8-testing/./build.gradle
+)/Users/jpowel/dev/java8-testing/./gradle
+*/Users/jpowel/dev/java8-testing/./gradlew
+./Users/jpowel/dev/java8-testing/./gradlew.bat
+2/Users/jpowel/dev/java8-testing/./settings.gradle
+&/Users/jpowel/dev/java8-testing/./src
+
+HIDDEN...
+'/Users/jpowel/dev/java8-testing/./.git
+-/Users/jpowel/dev/java8-testing/./.gitignore
+*/Users/jpowel/dev/java8-testing/./.gradle
+(/Users/jpowel/dev/java8-testing/./.idea
+integers = [5, 5]
+	xTRANSACTIONS = [{Trader:Brian in Cambridge, year: 2011, value:300}, {Trader:Raoul in Cambridge, year: 2011, value:400}]
+	
+[Cambridge, Milan]
+	Q[Trader:Alan in Cambridge, Trader:Brian in Cambridge, Trader:Raoul in Cambridge]
+	s = Alan,Brian,Mario,Raoul
+	true
+	300
+	1000
+	400
+	950
+	1000
+	3{Trader:Brian in Cambridge, year: 2011, value:300}
