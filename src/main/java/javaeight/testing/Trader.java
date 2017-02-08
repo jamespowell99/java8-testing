@@ -1,3 +1,5 @@
+package javaeight.testing;
+
 public class Trader{
 
     private final String name;
@@ -17,6 +19,6 @@ public class Trader{
     }
 
     public String toString(){
-        return "Trader:"+this.name + " in " + this.city;
+        return "javaeight.testing.Trader:"+this.name + " in " + this.city;
     }
 }

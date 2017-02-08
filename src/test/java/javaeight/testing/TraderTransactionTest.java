@@ -1,9 +1,11 @@
+package javaeight.testing;
+
+import javaeight.testing.Trader;
+import javaeight.testing.Transaction;
 import org.junit.Test;
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.List;
-import java.util.stream.Collectors;
 
 import static java.util.Comparator.comparing;
 import static java.util.stream.Collectors.toList;

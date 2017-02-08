@@ -1,3 +1,5 @@
+package javaeight.testing;
+
 import org.junit.Test;
 
 import java.util.stream.Stream;

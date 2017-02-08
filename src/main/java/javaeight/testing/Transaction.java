@@ -1,3 +1,5 @@
+package javaeight.testing;
+
 public class Transaction{
 
     private final Trader trader;
